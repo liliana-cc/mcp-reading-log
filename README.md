@@ -52,10 +52,12 @@ python -m pip install -r requirements.txt
 
 ### 3. Configure the MCP server in VS Code
 
-Open the repository folder in VS Code:
+Open the repository folder in VS Code and add file in reading log folder:
 
 ```bash
-code .
+mkdir .vscode
+cd .vscode
+nano mcp.json
 ```
 
 Create `.vscode/mcp.json` with this content:
