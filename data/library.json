@@ -1,0 +1,6 @@
+[
+  {"id":"seed1","title":"Project Hail Mary","author":"Andy Weir","cover_id":null,"description":"A lone astronaut wakes up on a spacecraft with no memory and must save Earth.","status":"finished","rating":5,"review":"Science problem-solving as a love letter to teamwork."},
+  {"id":"seed2","title":"Parable of the Sower","author":"Octavia E. Butler","cover_id":null,"description":"A young woman builds a new belief system while her community collapses.","status":"reading","rating":null,"review":""},
+  {"id":"seed3","title":"The Hobbit","author":"J.R.R. Tolkien","cover_id":null,"description":"Bilbo Baggins joins a company of dwarves on a quest to reclaim their mountain home.","status":"finished","rating":4,"review":"Cozy start, great riddles."},
+  {"id":"seed4","title":"Klara and the Sun","author":"Kazuo Ishiguro","cover_id":null,"description":"An artificial friend observes the humans around her.","status":"want to read","rating":null,"review":""}
+]
